@@ -1,3 +1,9 @@
-Hi, I’m @vitaliy-kovalev, BI developer. I’m interested in data exploration and vizualisation. You can contact me via email or telegram https://t.me/vitaliy_kovalev
+Hello there!
 
-Tableau Public https://public.tableau.com/profile/vitaliy.kovalev
+My name is Vitaliy Kovalev, and I have a real passion for working with reporting and data.
+
+I have worked in various data-related positions, including BI developer, data analyst, and business processes automation engineer.
+
+Since 2022, I have been working as the team leader of the Business Intelligence team at Yandex Go in Belgrade.
+
+Nice to meet you!
